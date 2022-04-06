@@ -1,0 +1,15 @@
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\bin\Debug\net5.0\BooksApi.Service.deps.json
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\bin\Debug\net5.0\BooksApi.Service.dll
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\bin\Debug\net5.0\BooksApi.Service.pdb
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\bin\Debug\net5.0\BooksApi.Domain.dll
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\bin\Debug\net5.0\BooksApi.Domain.pdb
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\obj\Debug\net5.0\BooksApi.Service.csproj.AssemblyReference.cache
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\obj\Debug\net5.0\BooksApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\obj\Debug\net5.0\BooksApi.Service.AssemblyInfoInputs.cache
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\obj\Debug\net5.0\BooksApi.Service.AssemblyInfo.cs
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\obj\Debug\net5.0\BooksApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\obj\Debug\net5.0\BooksApi.Service.csproj.CopyComplete
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\obj\Debug\net5.0\BooksApi.Service.dll
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\obj\Debug\net5.0\refint\BooksApi.Service.dll
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\obj\Debug\net5.0\BooksApi.Service.pdb
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Service\obj\Debug\net5.0\ref\BooksApi.Service.dll

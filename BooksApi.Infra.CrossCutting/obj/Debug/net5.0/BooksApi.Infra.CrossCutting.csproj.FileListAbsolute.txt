@@ -1,0 +1,12 @@
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Infra.CrossCutting\bin\Debug\net5.0\BooksApi.Infra.CrossCutting.deps.json
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Infra.CrossCutting\bin\Debug\net5.0\BooksApi.Infra.CrossCutting.dll
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Infra.CrossCutting\bin\Debug\net5.0\BooksApi.Infra.CrossCutting.pdb
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Infra.CrossCutting\obj\Debug\net5.0\BooksApi.Infra.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Infra.CrossCutting\obj\Debug\net5.0\BooksApi.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Infra.CrossCutting\obj\Debug\net5.0\BooksApi.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Infra.CrossCutting\obj\Debug\net5.0\BooksApi.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Infra.CrossCutting\obj\Debug\net5.0\BooksApi.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Infra.CrossCutting\obj\Debug\net5.0\BooksApi.Infra.CrossCutting.dll
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Infra.CrossCutting\obj\Debug\net5.0\refint\BooksApi.Infra.CrossCutting.dll
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Infra.CrossCutting\obj\Debug\net5.0\BooksApi.Infra.CrossCutting.pdb
+C:\Users\anaje\source\repos\BooksApi\BooksApi.Infra.CrossCutting\obj\Debug\net5.0\ref\BooksApi.Infra.CrossCutting.dll
